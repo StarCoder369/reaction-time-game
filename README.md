@@ -2,10 +2,10 @@
 
 
 
+![Reaction Time Game](screenshot.png)
 
 
-
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~5.5 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~6 hours of work.
 
 
 
@@ -48,7 +48,8 @@ If you click too early, or too late, then you can click the button to play again
 
 ## Demo
 
-- **Try it:** [https://breadboard.hackclub.com/share/105](https://breadboard.hackclub.com/share/105)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/105](https://breadboard.hackclub.com/share/105), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/105/](https://taniwankenobi.github.io/breadboard-plays/p/105/)
 
 
 ## Schematic
@@ -80,21 +81,11 @@ Firmware files are in the `firmware/` folder.
 Build journal entries are kept in [`journals.md`](journals.md).
 
 
-## Extra Stuff
-
-Image of the wiring:
-
-<img width="822" height="268" alt="Screenshot 2026-07-10 at 5 12 45 PM" src="https://github.com/user-attachments/assets/bf1308ad-ed72-4b97-8de2-eff88756c344" />
-
-## Why I made it
-I decided to make a game because I usually make games in Unity, so it would help me a bit with the coding since this is my first time really making anything with electrical stuff, even if it is online. 
-
-
 ---
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 5.5h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 6h of work*
 
 
 

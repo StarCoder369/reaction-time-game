@@ -61,13 +61,16 @@ The editor snapshot is in `breadboard-project.json`.
 
 | Part | Quantity |
 | --- | --- |
+| analog-joystick | 1 |
 | breadboard-full | 1 |
 | lcd1602 | 1 |
 | lcd1602-i2c | 1 |
 | led-blue | 1 |
 | led-red | 1 |
 | led-yellow | 1 |
+| microphone-module | 1 |
 | pushbutton | 1 |
+| rc522-rfid | 1 |
 | resistor-220 | 3 |
 
 

@@ -2,7 +2,7 @@
 
 
 
-![Reaction Time Game](screenshot.png)
+![Reaction Time Game](screenshot.webp)
 
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~6 hours of work.
@@ -11,7 +11,7 @@
 
 ## What It Does
 
-A game where it tests your reaction time
+A game where it tests your reaction time. You can use the button or claps to play the game. There is a sensor that makes sure no one else but me can play.
 
 
 ## How It Works

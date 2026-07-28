@@ -34,16 +34,23 @@ LCD:
  - Gives instructions and reaction time
 
 Button:
- - This is what users must use to play the game
+ - This is what users can use to play the game. 
  - Can be used to play again when LCD says so.
 
-You must click the button to start the game. When you see 'Get Ready' on the LCD, or the red led is lit up, then get ready, since the yellow led will light up any time and you must click.
+Mic Module:
+ - This is what users can also use to play the game by clapping (or making a sound over the threshold).
+ - Can be used to play again when LCD says so.
 
-When the yellow led lights up, or the LCD says 'Click!', then click, and then you will get your reaction time.
+Joystick:
+ - Used to select which game type you are going to play. (Button or Clap)
 
-You can then click the button to play again.
+You must click the button or clap to start the game depending on the mode. When you see 'Get Ready' on the LCD, or the red led is lit up, then get ready, since the yellow led will light up any time and you must click/clap.
 
-If you click too early, or too late, then you can click the button to play again.
+When the yellow led lights up, or the LCD says 'Click!' or 'Clap!', then click/clap, and then you will get your reaction time.
+
+You can then click the button or clap to play again.
+
+If you click/clap too early, or too late, then you can click the button or clap to play again.
 
 
 ## Demo
